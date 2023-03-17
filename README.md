@@ -25,7 +25,7 @@ You can access my project through: https://mini-calculator-lake.vercel.app/
 
 You may use this project freely at your own risk. See [LICENSE](https://choosealicense.com/licenses/mit/).
 
-    Copyright (c) 2022 Mahima Churi
+    Copyright (c) 2023 Mahima Churi
 
 
 
