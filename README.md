@@ -4,36 +4,21 @@
 
 I learned about the fundamentals of <b>Git</b>, <b>Github</b>, and some of its basics commands as part of my internship's first task. I also perpared a summary report for the same which you can access through task-1 folder.
 
-## 📓 Tools used
+## 📱Task 2 - Mini Project
 
-Front-End
+As a follow-up project for my Internship, I created a simple calculator using the followinf technologies:
 <ul>
   <li>HTML</li>
   <li>CSS</li>
   <li>JS</li>
 </ul>
+You can access my project through: https://mini-calculator-lake.vercel.app/
 
-
-<br>
-
-## 👀 Screenshots
-
-<img src ="/assets/1.png">
-<img src ="/assets/2.png">
-<img src ="/assets/3.png">
 
 
 ## ✍ Author
 
 - [Mahima Churi](https://github.com/Mahitej28)
-
-<br>
-
-## 📌 Features / Contributions
- - Any contributions you make are *greatly appreciated*
- - Would be glad to hear about *new features* to add in the website
-
-<br>
 
 
 ## 🛡 License
@@ -54,5 +39,5 @@ You may use this project freely at your own risk. See [LICENSE](https://chooseal
    </p>
 
 
-Task 2 - Mini Caluclator
-Link: https://mini-calculator-lake.vercel.app/
+
+
