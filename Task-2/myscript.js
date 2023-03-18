@@ -21,8 +21,10 @@ arr.forEach(button =>{
             input.value= string;
         }
         else{
-            string += e.target.innerHTML;
-            input.value = string;
+            if (/^[\d+*\/%-]$/.test(e.target.innerHTML)) {
+                string += e.target.innerHTML;
+                input.value = string;
+            }
         }
     })
 })
