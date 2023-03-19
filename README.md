@@ -16,7 +16,7 @@ As a follow-up project for my Internship, I created a simple calculator using th
 
 ## <img src = 'https://user-images.githubusercontent.com/98276915/226162566-986dc6d5-0076-4896-a3fa-4308c22390c1.png' width='25pxpx'>Task 3 - Scientific Calculator
 
-As a follow-up project for my Internship, I created a simple calculator using the followinf technologies:
+This project is designed to perform all mathematic operations and is basically a small version of a real time scientific calculator. The technologies used for the same are as follows:
 <ul>
   <li>HTML</li>
   <li>CSS</li>
