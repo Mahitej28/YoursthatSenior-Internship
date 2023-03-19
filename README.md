@@ -12,7 +12,17 @@ As a follow-up project for my Internship, I created a simple calculator using th
   <li>CSS</li>
   <li>JS</li>
 </ul>
-You can access my project through: https://mini-calculator-lake.vercel.app/
+🔗You can access my project through: https://mini-calculator-lake.vercel.app/
+
+## 📱Task 3 - Scientific Calculator
+
+As a follow-up project for my Internship, I created a simple calculator using the followinf technologies:
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JS</li>
+</ul>
+🔗You can access my project through: https://scientific-calculator-seven.vercel.app/
 
 
 
