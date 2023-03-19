@@ -1,4 +1,12 @@
 var screen = document.querySelector('#screen')
+screen.addEventListener('keypress', (event) => {
+
+  const charCode = event.charCode;
+  if (charCode >= 65 && charCode <= 90 || charCode >= 97 && charCode <= 122) {
+    event.preventDefault();
+  }
+});
+
 var btn = document.querySelectorAll('.btn')
 
 
