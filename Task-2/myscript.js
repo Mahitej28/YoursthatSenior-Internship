@@ -1,4 +1,12 @@
 let input = document.getElementById("inputbox");
+input.addEventListener('keypress', (e)=>{
+    const charCode = e.charcode
+
+    if( 65<=charCode<=90 || 97<=charCode<=122){
+        e.preventDefault()
+    }
+
+});
 let buttons = document.querySelectorAll("button");
 
 let string = "";
