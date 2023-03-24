@@ -24,6 +24,15 @@ This project is designed to perform all mathematic operations and is basically a
 </ul>
 🔗You can access my project through: https://scientific-calculator-seven.vercel.app/
 
+## 🎮Task 4 - Tic Tac Toe Game
+
+As a next task of my internship, I created a mini 2 player game using the following technologies:
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JS</li>
+</ul>
+🔗You can access my project through: https://tic-tac-toe-game-swart.vercel.app/
 
 
 ## ✍ Author
