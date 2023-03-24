@@ -1,0 +1,106 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+:root{
+
+    --orange: #f2c14e;
+    --bgcolor: #0f384a;
+}
+
+body{
+    color: var(--orange);
+    background: var(--bgcolor);
+    font-family: cursive;
+}
+
+h1{
+   font-size: 54px;
+   padding-bottom: 10px;
+}
+
+.gameConatiner{
+    padding: 40px;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.container{
+    display: grid;
+    grid-template-columns: repeat(3, 10vw);
+    grid-template-rows: repeat(3, 10vw);
+    font-family: 'Finger Paint', cursive;
+    position: relative;
+}
+
+.box{
+    color: var(--orange);
+    font-size: 9vw;
+    border: 2px solid;
+    cursor: pointer;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-color: var(--orange);
+    color: #333;
+    border-color: var(--orange);
+    font-size: 18px;
+    transition: 200ms transform;
+    font-weight: 600;
+}
+button:hover {
+    cursor: pointer;
+    transform: translateY(-2px);
+}
+
+.info{
+    padding: 10px 0px;
+    font-size: 30px;
+}
+
+.bl{
+    border-left: 0;
+}
+
+.br{
+    border-right: 0;
+}
+
+.bt{
+
+    border-top: 0;
+}
+
+.bb{
+
+    border-bottom: 0;
+}
+
+
+@media screen and (max-width : 800px) {
+  .gameConatiner{
+    flex-wrap: wrap;
+  }
+    
+}
+
+
+.line{
+
+    position:absolute;
+    height: 3px;
+    width: 0;
+    background-color: #f2c14e;
+    transition: width 1s ease-in-out;
+}
